@@ -8,8 +8,6 @@ Este portafolio está diseñado para:
 
 - Mostrar mi perfil profesional y trayectoria.
 - Presentar proyectos relevantes y resultados alcanzados.
-- Facilitar el contacto con clientes, colaboradores o recruiters.
-- Ofrecer una experiencia de navegación fluida y responsive.
 
 ## Características
 
