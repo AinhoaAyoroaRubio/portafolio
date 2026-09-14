@@ -1,13 +1,24 @@
 # Portafolio de Ainhoa Ayoroa
 
-Web estática preparada para subir a un repositorio de GitHub y desplegar con GitHub Pages.
+Bienvenido/a al repositorio de mi portafolio personal. Este proyecto presenta mi trabajo, experiencia, proyectos destacados y formas de contacto en una página web.
 
-## Uso
+## Descripción
 
-1. Sube el contenido de esta carpeta a la raíz del repositorio.
-2. En GitHub, abre **Settings → Pages**.
-3. En **Build and deployment**, selecciona **Deploy from a branch**.
-4. Elige la rama que contiene estos archivos y la carpeta `/ (root)`.
-5. Guarda los cambios y espera a que GitHub publique la página.
+Este portafolio está diseñado para:
 
-La página no necesita instalación ni proceso de compilación. La imagen `ainhoa-ayoroa.png` debe permanecer junto a `index.html`.
+- Mostrar mi perfil profesional y trayectoria.
+- Presentar proyectos relevantes y resultados alcanzados.
+- Facilitar el contacto con clientes, colaboradores o recruiters.
+- Ofrecer una experiencia de navegación fluida y responsive.
+
+## Características
+
+- Diseño moderno y minimalista.
+- Adaptado a distintos tamaños de pantalla.
+- Secciones de presentación, proyectos, experiencia y contacto.
+- Fácil de personalizar y mantener.
+- Optimizado para una rápida carga y buena legibilidad.
+
+## Autor
+
+Ainhoa Ayoroa
